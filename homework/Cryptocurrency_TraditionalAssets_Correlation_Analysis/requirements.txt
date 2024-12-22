@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+statsmodels
+torch==2.0.1
+jupyter
